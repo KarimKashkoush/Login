@@ -14,7 +14,6 @@ body {
 /* Start Form */
 body .form {
     width: 80%;
-    height: 80%;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -107,7 +106,7 @@ body .form .form-left .iqon ul {
 body .form .form-left .iqon ul li a {
     font-size: 30px;
     color: rgb(0, 51, 99);
-    margin-top: 50px;
+    margin-top: 35px;
 }
 body .form .form-left .iqon ul li a:hover {
     color: rgb(1, 39, 75);
